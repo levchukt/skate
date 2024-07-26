@@ -1,0 +1,20 @@
+[
+    {
+        "title": "title",
+        "price": 123,
+        "image": "img",
+        "description": "decr"
+    },
+    {
+        "title": "title",
+        "price": 123,
+        "image": "img",
+        "description": "decr"
+    },
+    {
+        "title": "title",
+        "price": 123,
+        "image": "img",
+        "description": "decr"
+    }
+]
